@@ -1,7 +1,9 @@
 ## Welcome to My Page
 
 ![ME](https://edit.co.uk/uploads/2016/12/Image-1-Alternatives-to-stock-photography-Thinkstock.jpg)
+
 [Google](https://www.google.com/)
+
 [Yahoo](https://www.yahoo.com/)
 
 # My Big Header
